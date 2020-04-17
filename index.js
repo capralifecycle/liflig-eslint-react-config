@@ -31,5 +31,6 @@ module.exports = {
     "@typescript-eslint/interface-name-prefix": "off",
     // Detect floating promises.
     "@typescript-eslint/no-floating-promises": "error",
+    "react/prop-types": "off",
   },
 };
