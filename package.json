@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Common eslint config for Liflig",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "semantic-release": "semantic-release"
   },
