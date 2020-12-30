@@ -1,3 +1,4 @@
 {
-  "extends": ["github>capraconsulting/renovate-config:library"]
+  "extends": ["github>capraconsulting/renovate-config:library"],
+  "enabled": false
 }
